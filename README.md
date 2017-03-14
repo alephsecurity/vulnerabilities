@@ -3,4 +3,4 @@
 Reports may also contain a relevant PoC.
 
 1. A Neat UI: https://alephsecurity.com/vulns/
-2. RSS: https://alephsecurity.com/feeds/vulns.xml
+2. RSS: https://alephsecurity.com/feed/vulns.xml
