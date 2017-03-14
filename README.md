@@ -1,4 +1,6 @@
 # Vulnerability Reports by Aleph Research #
 
 Reports may also contain a relevant PoC.
-https://alephsecurity.com/vulns/ for a neat UI.
+
+1. A Neat UI: https://alephsecurity.com/vulns/
+2. RSS: https://alephsecurity.com/feeds/vulns.xml
